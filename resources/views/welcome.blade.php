@@ -24,6 +24,8 @@
         <div id="app">
             <test-component></test-component>
         </div>
-        <script src="/js/app.js"></script>
+        <script src="/js/app.js">
+
+        </script>
     </body>
 </html>
